@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289713394868",
+    "project_id": "camvor-88c2d",
+    "storage_bucket": "camvor-88c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289713394868:android:c4ca6a95b308d3bb7573e1",
+        "android_client_info": {
+          "package_name": "com.allan.camvor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289713394868-mh49kng3c9k9a4l3dmpqecn33uqhlp1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allan.camvor",
+            "certificate_hash": "70d4f0641f69518ef63f0990831aa10d13ea7f7a"
+          }
+        },
+        {
+          "client_id": "289713394868-hjl0fhgn4hk3cj2iv0s009uoosdg1sl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnC6ITu6m2tzhNNbb4cZyNQqWB-ItQeQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289713394868-hjl0fhgn4hk3cj2iv0s009uoosdg1sl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
